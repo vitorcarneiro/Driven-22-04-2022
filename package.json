@@ -1,0 +1,23 @@
+{
+  "name": "22-04-2022",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@prisma/client": "^3.12.0",
+    "prisma": "^3.12.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "json-to-pretty-yaml": "^1.2.2",
+    "json2csv": "^5.0.7",
+    "node": "^17.7.2"
+  }
+}
